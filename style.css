@@ -1,0 +1,163 @@
+.h1{
+
+    position: absolute;
+    width: 140px;
+    height: 49px;
+    left: 903px;
+    top: 240px;
+    
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 50px;
+    
+    color: #000000;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    
+    .p{
+        position: absolute;
+    width: 162px;
+    height: 15px;
+    left: 825px;
+    top: 384px;
+    
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    color: #A7A7A7;
+    }
+    
+    .p1{
+    
+    position: absolute;
+    width: 162px;
+    height: 14px;
+    left: 825px;
+    top: 428px;
+    
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    
+    color: #B6B3B3;
+    
+    }
+    
+    .p2{
+        position: absolute;
+    width: 52px;
+    height: 17px;
+    left: 948px;
+    top: 512px;
+    
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+    
+    
+    }
+    
+    .p3{
+        position: absolute;
+    width: 107px;
+    height: 21px;
+    left: 920px;
+    top: 577px;
+    
+    font-family: 'SeoulNamsan CBL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    
+    color: #B6B3B3;
+    }
+    
+.box{
+    position: absolute;
+    left: 825px;
+    right: 320px;
+    top: 504px;
+    bottom: 488px;
+    width: 296px;
+    height: 32px;  
+
+    background: #807E7E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}       
+
+.box1{
+    width: 600px;
+    height: 600px;
+
+
+}
+.box2{
+    position: absolute;
+width: 33px;
+height: 32px;
+left: 890px;
+top: 636px;
+
+background: url(image.png);
+}
+.p4{
+    position: absolute;
+width: 124px;
+height: 18px;
+left: 938px;
+top: 644px;
+
+font-family: 'SeoulNamsan CBL';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 15px;
+
+color: #1F89EB;
+}
+
+.box3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 296px;
+height: 43px;
+left: 825px;
+top: 631px;
+
+background: #FFFFFF;
+border: 3px solid #1F89EB;
+}
+.line1{
+    position: absolute;
+width: 296px;
+height: 0px;
+left: 825px;
+top: 404px;
+
+border: 1px solid #A7A7A7;
+}
+.line2{
+    position: absolute;
+width: 296px;
+height: 0px;
+left: 825px;
+top: 452px;
+
+border: 1px solid #A7A7A7;
+}
